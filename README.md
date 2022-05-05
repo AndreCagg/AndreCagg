@@ -1,4 +1,4 @@
-- 👋 Ciao, sono @AndreCagg e ho 18 anni 
+- 👋 Ciao, sono @AndreCagg e ho 19 anni 
 - 👀 Sono interessato a tutta la tecnologia in generale ma quello che mi piace di più studiare ed applicare è la programmazione, più nello specifico la OOP
 - 🌱 Attualmente sto imparando e mi sto formando su frontend, backend con vari linguaggi. Sto anche approfondendo i Database con linguaggio SQL. Ho acquisito tutte le basi, le strutture dati e ho una buona capacità nel problem solving.
 - 💞️ Con i miei amici di corso ci immedesimiamo in un team di sviluppo e seguendo tutte le fasi per lo sviluppo arriviamo alla conclusione con un software perfettamente funzionante
