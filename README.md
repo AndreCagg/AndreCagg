@@ -1,4 +1,4 @@
-- 👋 Ciao, sono @AndreCagg e ho 19 anni 
+- 👋 Ciao, sono @AndreCagg e ho 20 anni 
 - 👀 Sono interessato a tutta la tecnologia in generale ma quello che mi piace di più studiare ed applicare è la programmazione, la applico nello sviluppo di software di calcolo e gestionali in generale.
 - 🌱 Attualmente sto imparando e mi sto formando su frontend, backend con vari linguaggi. Sto anche studiando i Database con linguaggio SQL e attualmente riesco a padroneggiarlo abbastanza bene. Ho acquisito capacità, le strutture dati e ho una buona abilità nel problem solving.
 - 🌱 Sto studiando Bootstrap 5.2.0!
